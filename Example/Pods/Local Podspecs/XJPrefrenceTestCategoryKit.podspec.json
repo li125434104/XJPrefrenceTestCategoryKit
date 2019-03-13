@@ -1,0 +1,27 @@
+{
+  "name": "XJPrefrenceTestCategoryKit",
+  "version": "1.0.0",
+  "summary": "A short description of XJPrefrenceTestCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/li125434104/XJPrefrenceTestCategoryKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "125434104@qq.com": "125434104@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/li125434104/XJPrefrenceTestCategoryKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XJPrefrenceTestCategoryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
